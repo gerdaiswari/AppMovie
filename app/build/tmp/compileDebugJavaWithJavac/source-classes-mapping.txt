@@ -1,0 +1,33 @@
+com/example/appmovie/data/local/MovieDao_Impl.java
+ com.example.appmovie.data.local.MovieDao_Impl
+ com.example.appmovie.data.local.MovieDao_Impl$1
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/appmovie/DataBinderMapperImpl.java
+ com.example.appmovie.DataBinderMapperImpl
+ com.example.appmovie.DataBinderMapperImpl$InnerBrLookup
+ com.example.appmovie.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/appmovie/BR.java
+ com.example.appmovie.BR
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/appmovie/data/local/MovieDatabase_Impl.java
+ com.example.appmovie.data.local.MovieDatabase_Impl
+ com.example.appmovie.data.local.MovieDatabase_Impl$1
+com/example/appmovie/BuildConfig.java
+ com.example.appmovie.BuildConfig
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/appmovie/DataBindingTriggerClass.java
+ com.example.appmovie.DataBindingTriggerClass
+com/example/appmovie/generated/callback/OnClickListener.java
+ com.example.appmovie.generated.callback.OnClickListener
+ com.example.appmovie.generated.callback.OnClickListener$Listener
+com/example/appmovie/databinding/ActivityDetailMovieBindingImpl.java
+ com.example.appmovie.databinding.ActivityDetailMovieBindingImpl
+com/example/appmovie/databinding/ActivityMainBinding.java
+ com.example.appmovie.databinding.ActivityMainBinding
+com/example/appmovie/databinding/ActivityDetailMovieBinding.java
+ com.example.appmovie.databinding.ActivityDetailMovieBinding
+com/example/appmovie/databinding/ActivityMainBindingImpl.java
+ com.example.appmovie.databinding.ActivityMainBindingImpl
