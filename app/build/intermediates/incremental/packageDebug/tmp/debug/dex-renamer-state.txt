@@ -1,0 +1,4 @@
+#Sun Aug 08 23:36:25 ICT 2021
+base.0=D\:\\AppMovie\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
